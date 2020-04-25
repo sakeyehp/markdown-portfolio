@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__Procedures__ are used to make your program *modular*. Related tasks can be grouped together. **Procedures** makes programs handy and avoid rewrites.
