@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Golden Gate Bridge](https://upload.wikimedia.org/wikipedia/commons/a/ac/Golden_Gate_Bridge_Yang_Ming_Line.jpg)
